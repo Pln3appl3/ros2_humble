@@ -13,3 +13,5 @@ python3-vcstools libx11-dev libxrandr-dev libasio-dev libtinyxml2-dev
 
 # Build
 colcon build --symlink-install
+
+# I have not tested this yet and just kept it in case i need to reinstall ros2_humble for my project so it may not work as intended with just the code above.
